@@ -4,7 +4,7 @@ Welcome to the source code for my personal photography portfolio: a minimalist a
 
 ## 🌍 Live Demo
 
-👉 [Visit the site](https://jasperpolderman.netlify.app)
+👉 [Visit the site](https://jasperpolderman.netlify.app/)
 
 ---
 
