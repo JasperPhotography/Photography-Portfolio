@@ -1,11 +1,11 @@
 /* --- Fonts --- */
 @font-face {
     font-family: 'SF Pro Text Regular';
-    src: url("../assets/fonts/SF-Pro-Text-Regular.otf") format("opentype");
+    src: url("../assets/fonts/SF-Pro-Text-Regular.woff2") format("woff2");
 }
 @font-face {
     font-family: 'SF Pro Text Light';
-    src: url("../assets/fonts/SF-Pro-Text-Light.otf") format("opentype");
+    src: url("../assets/fonts/SF-Pro-Text-Light.woff2") format("woff2");
 }
 
 /* --- Reset & Global --- */
