@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
             photos.forEach(({ src, alt, title, date }) => {
                 const item = document.createElement("div");
                 item.className = "masonry-item";
+                
                 item.innerHTML = `
                     <img src="${src}" alt="${alt}" class="original" />
                     <img src="${src}" alt="${alt}" class="blurred" />

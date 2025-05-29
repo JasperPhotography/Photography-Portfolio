@@ -1,165 +1,7 @@
 [
   {
-    "src": "images/photos/seceda-1.jpg",
-    "alt": "Seceda",
-    "title": "Seceda Peak",
-    "date": "06/08/2024",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "18mm (28.8mm)",
-      "aperture": "f/10",
-      "shutter": "1/160s",
-      "ISO": "100"
-    }
-  },
-  {
-    "src": "images/photos/seceda-2.jpg",
-    "alt": "Seceda",
-    "title": "Seceda Ridge",
-    "date": "06/08/2024",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "24mm (38.4mm)",
-      "aperture": "f/11",
-      "shutter": "1/100s",
-      "ISO": "100"
-    }
-  },
-  {
-    "src": "images/photos/seceda-3.jpg",
-    "alt": "Seceda",
-    "title": "Mountain Trek",
-    "date": "06/08/2024",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "150mm (240mm)",
-      "aperture": "f/8.0",
-      "shutter": "1/400s",
-      "ISO": "100"
-    }
-  },
-  {
-    "src": "images/photos/kinderdijk-1.jpg",
-    "alt": "Kinderdijk",
-    "title": "Timeless Charm",
-    "date": "30/08/2024",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "18mm (28.8mm)",
-      "aperture": "f/11",
-      "shutter": "1/100s",
-      "ISO": "800"
-    }
-  },
-  {
-    "src": "images/photos/lapland-1.jpg",
-    "alt": "Lapland",
-    "title": "Man on frozen lake",
-    "date": "01/02/2025",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "24mm (38.4mm)",
-      "aperture": "f/8",
-      "shutter": "1/125s",
-      "ISO": "500"
-    }
-  },
-  {
-    "src": "images/photos/lapland-2.jpg",
-    "alt": "Lapland",
-    "title": "Reindeer Sleigh Ride",
-    "date": "03/02/2025",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "39mm (62.4mm)",
-      "aperture": "f/8",
-      "shutter": "1/250s",
-      "ISO": "200"
-    }
-  },
-  {
-    "src": "images/photos/lapland-3.jpg",
-    "alt": "Lapland",
-    "title": "Lapland local",
-    "date": "03/02/2025",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "47mm (75.2mm)",
-      "aperture": "f/5.6",
-      "shutter": "1/250s",
-      "ISO": "200"
-    }
-  },
-  {
-    "src": "images/photos/lapland-4.jpg",
-    "alt": "Lapland",
-    "title": "Snow Path",
-    "date": "04/02/2025",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "18mm (28.8mm)",
-      "aperture": "f/8",
-      "shutter": "1/320",
-      "ISO": "320"
-    }
-  },
-  {
-    "src": "images/photos/lapland-5.jpg",
-    "alt": "Lapland",
-    "title": "Winter Forest",
-    "date": "04/02/2025",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "18mm (28.8mm)",
-      "aperture": "f/11",
-      "shutter": "1/200s",
-      "ISO": "200"
-    }
-  },
-  {
-    "src": "images/photos/lapland-6.jpg",
-    "alt": "Lapland",
-    "title": "Sunset in the wilderness",
-    "date": "07/02/2025",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "18mm (28.8mm)",
-      "aperture": "f/5.6",
-      "shutter": "1/50s",
-      "ISO": "1000"
-    }
-  },
-  {
-    "src": "images/photos/lapland-7.jpg",
-    "alt": "Lapland",
-    "title": "Frozen Majesty",
-    "date": "04/02/2025",
-    "exif": {
-      "camera": "Canon EOS R10",
-      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
-      "focallength": "35mm (56mm)",
-      "aperture": "f/8",
-      "shutter": "1/160s",
-      "ISO": "160"
-    }
-  },
-
-
-
-
-  
-  {
     "src": "images/photos/cambodia-1.jpg",
+    "placeholder": "images/placeholders/cambodia-1-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Sunset Over Ancient Ruins",
     "date": "24/03/2025",
@@ -174,6 +16,7 @@
   },
   {
     "src": "images/photos/cambodia-2.jpg",
+    "placeholder": "images/placeholders/cambodia-2-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Solar Alignment",
     "date": "25/03/2025",
@@ -188,6 +31,7 @@
   },
   {
     "src": "images/photos/cambodia-3.jpg",
+    "placeholder": "images/placeholders/cambodia-3-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Wise Watcher",
     "date": "25/03/2025",
@@ -202,6 +46,7 @@
   },
   {
     "src": "images/photos/cambodia-4.jpg",
+    "placeholder": "images/placeholders/cambodia-4-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Timeless Gate",
     "date": "25/03/2025",
@@ -215,7 +60,533 @@
     }
   },
   {
+    "src": "images/photos/cambodia-5.jpg",
+    "placeholder": "images/placeholders/cambodia-5-placeholder.jpg",
+    "alt": "Cambodia",
+    "title": "Stone Ascent",
+    "date": "25/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "24mm (38.4mm)",
+      "aperture": "f/8",
+      "shutter": "1/200s",
+      "ISO": "320"
+    }
+  },
+  {
+    "src": "images/photos/cambodia-6.jpg",
+    "placeholder": "images/placeholders/cambodia-6-placeholder.jpg",
+    "alt": "Cambodia",
+    "title": "Shadowed Legacy",
+    "date": "25/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "62mm (99.2mm)",
+      "aperture": "f/8",
+      "shutter": "1/1250s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/cambodia-7.jpg",
+    "placeholder": "images/placeholders/cambodia-7-placeholder.jpg",
+    "alt": "Cambodia",
+    "title": "Sacred Imprints",
+    "date": "25/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/3.5",
+      "shutter": "1/400s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/cambodia-8.jpg",
+    "placeholder": "images/placeholders/cambodia-8-placeholder.jpg",
+    "alt": "Cambodia",
+    "title": "Architect's Vision",
+    "date": "25/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "35mm (56mm)",
+      "aperture": "f/8",
+      "shutter": "1/200s",
+      "ISO": "500"
+    }
+  },
+  {
+    "src": "images/photos/cambodia-9.jpg",
+    "placeholder": "images/placeholders/cambodia-9-placeholder.jpg",
+    "alt": "Cambodia",
+    "title": "Historic Passageway",
+    "date": "25/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "50mm (80mm)",
+      "aperture": "f/5.6",
+      "shutter": "1/100s",
+      "ISO": "1000"
+    }
+  },
+  {
+    "src": "images/photos/cambodia-10.jpg",
+    "placeholder": "images/placeholders/cambodia-10-placeholder.jpg",
+    "alt": "Cambodia",
+    "title": "Ancient Roots",
+    "date": "25/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "29mm (46.4mm)",
+      "aperture": "f/8",
+      "shutter": "1/125s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/kinderdijk-1.jpg",
+    "placeholder": "images/placeholders/kinderdijk-1-placeholder.jpg",
+    "alt": "Kinderdijk",
+    "title": "Timeless Charm",
+    "date": "30/08/2024",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/11",
+      "shutter": "1/100s",
+      "ISO": "800"
+    }
+  },
+  {
+    "src": "images/photos/lapland-1.jpg",
+    "placeholder": "images/placeholders/lapland-1-placeholder.jpg",
+    "alt": "Lapland",
+    "title": "Man on frozen lake",
+    "date": "01/02/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "24mm (38.4mm)",
+      "aperture": "f/8",
+      "shutter": "1/125s",
+      "ISO": "500"
+    }
+  },
+  {
+    "src": "images/photos/lapland-2.jpg",
+    "placeholder": "images/placeholders/lapland-2-placeholder.jpg",
+    "alt": "Lapland",
+    "title": "Reindeer Sleigh Ride",
+    "date": "03/02/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "39mm (62.4mm)",
+      "aperture": "f/8",
+      "shutter": "1/250s",
+      "ISO": "200"
+    }
+  },
+  {
+    "src": "images/photos/lapland-3.jpg",
+    "placeholder": "images/placeholders/lapland-3-placeholder.jpg",
+    "alt": "Lapland",
+    "title": "Lapland local",
+    "date": "03/02/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "47mm (75.2mm)",
+      "aperture": "f/5.6",
+      "shutter": "1/250s",
+      "ISO": "200"
+    }
+  },
+  {
+    "src": "images/photos/lapland-4.jpg",
+    "placeholder": "images/placeholders/lapland-4-placeholder.jpg",
+    "alt": "Lapland",
+    "title": "Snow Path",
+    "date": "04/02/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/8",
+      "shutter": "1/320s",
+      "ISO": "320"
+    }
+  },
+  {
+    "src": "images/photos/lapland-5.jpg",
+    "placeholder": "images/placeholders/lapland-5-placeholder.jpg",
+    "alt": "Lapland",
+    "title": "Winter Forest",
+    "date": "04/02/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/11",
+      "shutter": "1/200s",
+      "ISO": "200"
+    }
+  },
+  {
+    "src": "images/photos/lapland-6.jpg",
+    "placeholder": "images/placeholders/lapland-6-placeholder.jpg",
+    "alt": "Lapland",
+    "title": "Sunset in the wilderness",
+    "date": "07/02/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/5.6",
+      "shutter": "1/50s",
+      "ISO": "1000"
+    }
+  },
+  {
+    "src": "images/photos/lapland-7.jpg",
+    "placeholder": "images/placeholders/lapland-7-placeholder.jpg",
+    "alt": "Lapland",
+    "title": "Frozen Majesty",
+    "date": "04/02/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "35mm (56mm)",
+      "aperture": "f/8",
+      "shutter": "1/160s",
+      "ISO": "160"
+    }
+  },
+  {
+    "src": "images/photos/maleisië-1.jpg",
+    "placeholder": "images/placeholders/maleisië-1-placeholder.jpg",
+    "alt": "Malaysia",
+    "title": "Ocean's Guide",
+    "date": "22/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/8",
+      "shutter": "1/400s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/seceda-1.jpg",
+    "placeholder": "images/placeholders/seceda-1-placeholder.jpg",
+    "alt": "Seceda",
+    "title": "Seceda Peak",
+    "date": "06/08/2024",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/10",
+      "shutter": "1/160s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/seceda-2.jpg",
+    "placeholder": "images/placeholders/seceda-2-placeholder.jpg",
+    "alt": "Seceda",
+    "title": "Seceda Ridge",
+    "date": "06/08/2024",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "24mm (38.4mm)",
+      "aperture": "f/11",
+      "shutter": "1/100s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/seceda-3.jpg",
+    "placeholder": "images/placeholders/seceda-3-placeholder.jpg",
+    "alt": "Seceda",
+    "title": "Mountain Trek",
+    "date": "06/08/2024",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "150mm (240mm)",
+      "aperture": "f/8.0",
+      "shutter": "1/400s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/thailand-1.jpg",
+    "placeholder": "images/placeholders/thailand-1-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Market Maze",
+    "date": "27/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "59mm (94.4mm)",
+      "aperture": "f/8",
+      "shutter": "1/100s",
+      "ISO": "1600"
+    }
+  },
+  {
+    "src": "images/photos/thailand-2.jpg",
+    "placeholder": "images/placeholders/thailand-2-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Hidden Stream",
+    "date": "31/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "24mm (38.4mm)",
+      "aperture": "f/11",
+      "shutter": "1/2s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/thailand-3.jpg",
+    "placeholder": "images/placeholders/thailand-3-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Cascade Trail",
+    "date": "31/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/13",
+      "shutter": "1/2s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/thailand-4.jpg",
+    "placeholder": "images/placeholders/thailand-4-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Forest Flow",
+    "date": "31/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "24mm (38.4mm)",
+      "aperture": "f/8",
+      "shutter": "1/4s",
+      "ISO": "125"
+    }
+  },
+  {
+    "src": "images/photos/thailand-5.jpg",
+    "placeholder": "images/placeholders/thailand-5-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Serenity Falls",
+    "date": "31/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/13",
+      "shutter": "1s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/thailand-6.jpg",
+    "placeholder": "images/placeholders/thailand-6-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Stillness by the Lake",
+    "date": "31/03/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/8",
+      "shutter": "1/50s",
+      "ISO": "160"
+    }
+  },
+  {
+    "src": "images/photos/thailand-7.jpg",
+    "placeholder": "images/placeholders/thailand-7-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Bridge to History",
+    "date": "02/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "50mm (80mm)",
+      "aperture": "f/5.6",
+      "shutter": "1/800s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/thailand-8.jpg",
+    "placeholder": "images/placeholders/thailand-8-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Heritage in Bloom",
+    "date": "02/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "30mm (48mm)",
+      "aperture": "f/8",
+      "shutter": "1/320s",
+      "ISO": "125"
+    }
+  },
+  {
+    "src": "images/photos/thailand-9.jpg",
+    "placeholder": "images/placeholders/thailand-9-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Mystical Twilight Over Forgotten Temples",
+    "date": "02/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "45mm (72mm)",
+      "aperture": "f/8",
+      "shutter": "1/1000s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/thailand-10.jpg",
+    "placeholder": "images/placeholders/thailand-10-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Celebration Street",
+    "date": "09/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "35mm (56mm)",
+      "aperture": "f/8",
+      "shutter": "1/200s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/thailand-11.jpg",
+    "placeholder": "images/placeholders/thailand-11-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Mirror of Time",
+    "date": "09/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/8",
+      "shutter": "1/160s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/thailand-12.jpg",
+    "placeholder": "images/placeholders/thailand-12-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Among the Leaves",
+    "date": "13/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "150mm (240mm)",
+      "aperture": "f/6.3",
+      "shutter": "1/400s",
+      "ISO": "6400"
+    }
+  },
+  {
+    "src": "images/photos/thailand-13.jpg",
+    "placeholder": "images/placeholders/thailand-13-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Morning Tranquility",
+    "date": "15/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/3.5",
+      "shutter": "1/200s",
+      "ISO": "400"
+    }
+  },
+  {
+    "src": "images/photos/thailand-14.jpg",
+    "placeholder": "images/placeholders/thailand-14-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Golden Escape",
+    "date": "17/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/13",
+      "shutter": "1/125s",
+      "ISO": "200"
+    }
+  },
+  {
+    "src": "images/photos/thailand-15.jpg",
+    "placeholder": "images/placeholders/thailand-15-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Evening Reflections",
+    "date": "17/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "35mm (56mm)",
+      "aperture": "f/5",
+      "shutter": "1/200s",
+      "ISO": "400"
+    }
+  },
+  {
+    "src": "images/photos/thailand-16.jpg",
+    "placeholder": "images/placeholders/thailand-16-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Horizon's Calmness",
+    "date": "18/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "24mm (38.4mm)",
+      "aperture": "f/8",
+      "shutter": "1/400s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/thailand-17.jpg",
+    "placeholder": "images/placeholders/thailand-17-placeholder.jpg",
+    "alt": "Thailand",
+    "title": "Coastal Refuge",
+    "date": "20/04/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "35mm (56mm)",
+      "aperture": "f/8",
+      "shutter": "1/125s",
+      "ISO": "400"
+    }
+  },
+  {
     "src": "images/photos/vietnam-1.jpg",
+    "placeholder": "images/placeholders/vietnam-1-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Stillness Afloat",
     "date": "04/03/2025",
@@ -230,6 +601,7 @@
   },
   {
     "src": "images/photos/vietnam-2.jpg",
+    "placeholder": "images/placeholders/vietnam-2-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Cocoa Mosaic",
     "date": "21/03/2025",
@@ -244,6 +616,7 @@
   },
   {
     "src": "images/photos/vietnam-3.jpg",
+    "placeholder": "images/placeholders/vietnam-3-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Early Morning Transit",
     "date": "20/03/2025",
@@ -258,6 +631,7 @@
   },
   {
     "src": "images/photos/vietnam-4.jpg",
+    "placeholder": "images/placeholders/vietnam-4-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Market Hustle",
     "date": "08/03/2025",
@@ -272,6 +646,7 @@
   },
   {
     "src": "images/photos/vietnam-5.jpg",
+    "placeholder": "images/placeholders/vietnam-5-placeholder.jpg",
     "alt": "Vietnam",
     "title": "The Old Town Trade",
     "date": "11/03/2025",
@@ -286,6 +661,7 @@
   },
   {
     "src": "images/photos/vietnam-6.jpg",
+    "placeholder": "images/placeholders/vietnam-6-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Lantern Dance",
     "date": "11/03/2025",
@@ -300,6 +676,7 @@
   },
   {
     "src": "images/photos/vietnam-7.jpg",
+    "placeholder": "images/placeholders/vietnam-7-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Tangled Currents",
     "date": "14/03/2025",
