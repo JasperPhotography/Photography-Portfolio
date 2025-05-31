@@ -153,7 +153,7 @@
     "src": "images/photos/japan-1.jpg",
     "placeholder": "images/placeholders/japan-1-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Imperial Stillness",
     "date": "12/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -168,7 +168,7 @@
     "src": "images/photos/japan-2.jpg",
     "placeholder": "images/placeholders/japan-2-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Peaks and Poles",
     "date": "13/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -183,7 +183,7 @@
     "src": "images/photos/japan-3.jpg",
     "placeholder": "images/placeholders/japan-3-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Approaching Station Mt. Fuji",
     "date": "13/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -198,7 +198,7 @@
     "src": "images/photos/japan-4.jpg",
     "placeholder": "images/placeholders/japan-4-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Echoes of Elevation",
     "date": "13/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -213,7 +213,7 @@
     "src": "images/photos/japan-5.jpg",
     "placeholder": "images/placeholders/japan-5-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Thread of Tradition",
     "date": "14/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -228,7 +228,7 @@
     "src": "images/photos/japan-6.jpg",
     "placeholder": "images/placeholders/japan-6-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Gates of Glow",
     "date": "14/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -243,7 +243,7 @@
     "src": "images/photos/japan-7.jpg",
     "placeholder": "images/placeholders/japan-7-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Whispers in the Grove",
     "date": "15/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -258,7 +258,7 @@
     "src": "images/photos/japan-8.jpg",
     "placeholder": "images/placeholders/japan-8-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Reaching for the Light",
     "date": "15/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -273,7 +273,7 @@
     "src": "images/photos/japan-9.jpg",
     "placeholder": "images/placeholders/japan-9-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Rise and Reach",
     "date": "15/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -288,7 +288,7 @@
     "src": "images/photos/japan-10.jpg",
     "placeholder": "images/placeholders/japan-10-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Steps into the Unknown",
     "date": "16/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -303,7 +303,7 @@
     "src": "images/photos/japan-11.jpg",
     "placeholder": "images/placeholders/japan-11-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Veiled Watcher",
     "date": "16/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -318,7 +318,7 @@
     "src": "images/photos/japan-12.jpg",
     "placeholder": "images/placeholders/japan-12-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Light, Stone & Time",
     "date": "17/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -333,7 +333,7 @@
     "src": "images/photos/japan-13.jpg",
     "placeholder": "images/placeholders/japan-13-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Steps Through Time",
     "date": "17/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -348,7 +348,7 @@
     "src": "images/photos/japan-14.jpg",
     "placeholder": "images/placeholders/japan-14-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Daruma Dreams",
     "date": "19/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -363,7 +363,7 @@
     "src": "images/photos/japan-15.jpg",
     "placeholder": "images/placeholders/japan-15-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Guardians of Tradition",
     "date": "19/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -375,10 +375,10 @@
     }
   },
   {
-    "src": "images/photos/japan-1.jpg",
-    "placeholder": "images/placeholders/japan-1-placeholder.jpg",
+    "src": "images/photos/japan-16.jpg",
+    "placeholder": "images/placeholders/japan-16-placeholder.jpg",
     "alt": "Japan",
-    "title": "",
+    "title": "Celestial Bastion",
     "date": "20/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -528,7 +528,7 @@
     "src": "images/photos/maleisië-2.jpg",
     "placeholder": "images/placeholders/maleisië-2-placeholder.jpg",
     "alt": "Malaysia",
-    "title": "",
+    "title": "Floating Mosque",
     "date": "05/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -543,7 +543,7 @@
     "src": "images/photos/maleisië-3.jpg",
     "placeholder": "images/placeholders/maleisië-3-placeholder.jpg",
     "alt": "Malaysia",
-    "title": "",
+    "title": "Geometric Ascent ",
     "date": "09/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
