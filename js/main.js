@@ -137,10 +137,37 @@ document.addEventListener("DOMContentLoaded", () => {
                 </div>
                 <span class="photo-title">${photo.title}</span>
                 <div class="exif-section">
-                    <p><i class="fa-light fa-camera"></i> ${photo.exif?.camera || '—'}</p>
-                    <p><i class="fa-thin fa-aperture"></i> ${photo.exif?.lens || '—'}</p>
-                    <p><i class="fa-light fa-loader"></i> ${photo.exif?.focallength || '—'} • ${photo.exif?.aperture || '—'} • ${photo.exif?.shutter || '—'} • ISO ${photo.exif?.ISO || '—'}</p>
-                    <p><i class="fa-thin fa-calendar"></i> ${photo.date || '—'}</p>
+
+                    <div class="exif-item">
+                        <i class="fa-light fa-camera"></i>
+                        <p>${photo.exif?.camera || '—'}</p>
+                    </div>
+                    
+                    <div class="exif-item">
+                        <i class="fa-thin fa-aperture"></i>
+                        <p>${photo.exif?.lens || '—'}</p>
+                    </div>
+                    
+                    <div class="exif-item">
+                        <i class="fa-light fa-loader"></i>
+                        <p>
+                            <span>${photo.exif?.focallength || '—'}</span> • 
+                            <span>${photo.exif?.aperture || '—'}</span> • 
+                            <span>${photo.exif?.shutter || '—'}</span> • 
+                            <span>ISO ${photo.exif?.ISO || '—'}</span>
+                        </p>
+                    </div>
+
+                    <div class="exif-item">
+                        <i class="fa-thin fa-location-dot"></i>
+                        <p>${photo.location || '—'}</p>
+                    </div>
+
+                    <div class="exif-item">
+                        <i class="fa-thin fa-calendar"></i>
+                        <p>${photo.date || '—'}</p>
+                    </div>
+
                 </div>
                 <div class="thin-divider"></div>
                 <div class="footer">

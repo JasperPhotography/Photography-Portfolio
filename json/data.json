@@ -4,6 +4,7 @@
     "placeholder": "images/placeholders/cambodia-1-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Sunset Over Ancient Ruins",
+    "location": "Angkor Wat",
     "date": "24/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -19,6 +20,7 @@
     "placeholder": "images/placeholders/cambodia-2-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Solar Alignment",
+    "location": "Angkor Wat",
     "date": "25/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -34,6 +36,7 @@
     "placeholder": "images/placeholders/cambodia-3-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Wise Watcher",
+    "location": "Angkor Wat",
     "date": "25/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -49,6 +52,7 @@
     "placeholder": "images/placeholders/cambodia-4-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Timeless Gate",
+    "location": "Ta Phrom",
     "date": "25/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -64,6 +68,7 @@
     "placeholder": "images/placeholders/cambodia-5-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Stone Ascent",
+    "location": "Angkor Wat",
     "date": "25/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -79,6 +84,7 @@
     "placeholder": "images/placeholders/cambodia-6-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Shadowed Legacy",
+    "location": "Angkor Wat",
     "date": "25/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -94,6 +100,7 @@
     "placeholder": "images/placeholders/cambodia-7-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Sacred Imprints",
+    "location": "Angkor Wat",
     "date": "25/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -109,6 +116,7 @@
     "placeholder": "images/placeholders/cambodia-8-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Architect's Vision",
+    "location": "Angkor Wat",
     "date": "25/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -124,6 +132,7 @@
     "placeholder": "images/placeholders/cambodia-9-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Historic Passageway",
+    "location": "Ta Phrom",
     "date": "25/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -139,6 +148,7 @@
     "placeholder": "images/placeholders/cambodia-10-placeholder.jpg",
     "alt": "Cambodia",
     "title": "Ancient Roots",
+    "location": "Ta Phrom",
     "date": "25/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -154,6 +164,7 @@
     "placeholder": "images/placeholders/japan-1-placeholder.jpg",
     "alt": "Japan",
     "title": "Imperial Stillness",
+    "location": "Tokyo",
     "date": "12/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -168,7 +179,8 @@
     "src": "images/photos/japan-2.jpg",
     "placeholder": "images/placeholders/japan-2-placeholder.jpg",
     "alt": "Japan",
-    "title": "Peaks and Poles",
+    "title": "Peak and Poles",
+    "location": "Fujiyoshida",
     "date": "13/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -184,6 +196,7 @@
     "placeholder": "images/placeholders/japan-3-placeholder.jpg",
     "alt": "Japan",
     "title": "Approaching Station Mt. Fuji",
+    "location": "Fujiyoshida",
     "date": "13/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -199,6 +212,7 @@
     "placeholder": "images/placeholders/japan-4-placeholder.jpg",
     "alt": "Japan",
     "title": "Echoes of Elevation",
+    "location": "Fujikawaguchiko",
     "date": "13/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -214,6 +228,7 @@
     "placeholder": "images/placeholders/japan-5-placeholder.jpg",
     "alt": "Japan",
     "title": "Thread of Tradition",
+    "location": "Kyoto",
     "date": "14/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -229,6 +244,7 @@
     "placeholder": "images/placeholders/japan-6-placeholder.jpg",
     "alt": "Japan",
     "title": "Gates of Glow",
+    "location": "Kyoto",
     "date": "14/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -244,6 +260,7 @@
     "placeholder": "images/placeholders/japan-7-placeholder.jpg",
     "alt": "Japan",
     "title": "Whispers in the Grove",
+    "location": "Kyoto",
     "date": "15/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -259,6 +276,7 @@
     "placeholder": "images/placeholders/japan-8-placeholder.jpg",
     "alt": "Japan",
     "title": "Reaching for the Light",
+    "location": "Kyoto",
     "date": "15/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -274,6 +292,7 @@
     "placeholder": "images/placeholders/japan-9-placeholder.jpg",
     "alt": "Japan",
     "title": "Rise and Reach",
+    "location": "Kyoto",
     "date": "15/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -289,6 +308,7 @@
     "placeholder": "images/placeholders/japan-10-placeholder.jpg",
     "alt": "Japan",
     "title": "Steps into the Unknown",
+    "location": "Nara",
     "date": "16/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -304,6 +324,7 @@
     "placeholder": "images/placeholders/japan-11-placeholder.jpg",
     "alt": "Japan",
     "title": "Veiled Watcher",
+    "location": "Nara",
     "date": "16/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -319,6 +340,7 @@
     "placeholder": "images/placeholders/japan-12-placeholder.jpg",
     "alt": "Japan",
     "title": "Light, Stone & Time",
+    "location": "Kyoto",
     "date": "17/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -334,6 +356,7 @@
     "placeholder": "images/placeholders/japan-13-placeholder.jpg",
     "alt": "Japan",
     "title": "Steps Through Time",
+    "location": "Kyoto",
     "date": "17/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -349,6 +372,7 @@
     "placeholder": "images/placeholders/japan-14-placeholder.jpg",
     "alt": "Japan",
     "title": "Daruma Dreams",
+    "location": "Osaka",
     "date": "19/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -364,6 +388,7 @@
     "placeholder": "images/placeholders/japan-15-placeholder.jpg",
     "alt": "Japan",
     "title": "Guardians of Tradition",
+    "location": "Osaka",
     "date": "19/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -379,6 +404,7 @@
     "placeholder": "images/placeholders/japan-16-placeholder.jpg",
     "alt": "Japan",
     "title": "Celestial Bastion",
+    "location": "Osaka",
     "date": "20/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -394,6 +420,7 @@
     "placeholder": "images/placeholders/kinderdijk-1-placeholder.jpg",
     "alt": "Kinderdijk",
     "title": "Timeless Charm",
+    "location": "Kinderdijk",
     "date": "30/08/2024",
     "exif": {
       "camera": "Canon EOS R10",
@@ -409,6 +436,7 @@
     "placeholder": "images/placeholders/lapland-1-placeholder.jpg",
     "alt": "Lapland",
     "title": "Man on frozen lake",
+    "location": "Salla",
     "date": "01/02/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -424,6 +452,7 @@
     "placeholder": "images/placeholders/lapland-2-placeholder.jpg",
     "alt": "Lapland",
     "title": "Reindeer Sleigh Ride",
+    "location": "Salla",
     "date": "03/02/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -439,6 +468,7 @@
     "placeholder": "images/placeholders/lapland-3-placeholder.jpg",
     "alt": "Lapland",
     "title": "Lapland local",
+    "location": "Salla",
     "date": "03/02/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -454,6 +484,7 @@
     "placeholder": "images/placeholders/lapland-4-placeholder.jpg",
     "alt": "Lapland",
     "title": "Snow Path",
+    "location": "Salla",
     "date": "04/02/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -469,6 +500,7 @@
     "placeholder": "images/placeholders/lapland-5-placeholder.jpg",
     "alt": "Lapland",
     "title": "Winter Forest",
+    "location": "Salla",
     "date": "04/02/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -484,6 +516,7 @@
     "placeholder": "images/placeholders/lapland-6-placeholder.jpg",
     "alt": "Lapland",
     "title": "Sunset in the wilderness",
+    "location": "Salla",
     "date": "07/02/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -499,6 +532,7 @@
     "placeholder": "images/placeholders/lapland-7-placeholder.jpg",
     "alt": "Lapland",
     "title": "Frozen Majesty",
+    "location": "Salla",
     "date": "04/02/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -514,6 +548,7 @@
     "placeholder": "images/placeholders/maleisië-1-placeholder.jpg",
     "alt": "Malaysia",
     "title": "Ocean's Guide",
+    "location": "Langkawi",
     "date": "22/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -529,6 +564,7 @@
     "placeholder": "images/placeholders/maleisië-2-placeholder.jpg",
     "alt": "Malaysia",
     "title": "Floating Mosque",
+    "location": "Malacca",
     "date": "05/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -544,6 +580,7 @@
     "placeholder": "images/placeholders/maleisië-3-placeholder.jpg",
     "alt": "Malaysia",
     "title": "Geometric Ascent ",
+    "location": "Kuala Lumpur",
     "date": "09/05/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -559,6 +596,7 @@
     "placeholder": "images/placeholders/seceda-1-placeholder.jpg",
     "alt": "Seceda",
     "title": "Seceda Peak",
+    "location": "Dolomites",
     "date": "06/08/2024",
     "exif": {
       "camera": "Canon EOS R10",
@@ -574,6 +612,7 @@
     "placeholder": "images/placeholders/seceda-2-placeholder.jpg",
     "alt": "Seceda",
     "title": "Seceda Ridge",
+    "location": "Dolomites",
     "date": "06/08/2024",
     "exif": {
       "camera": "Canon EOS R10",
@@ -589,6 +628,7 @@
     "placeholder": "images/placeholders/seceda-3-placeholder.jpg",
     "alt": "Seceda",
     "title": "Mountain Trek",
+    "location": "Dolomites",
     "date": "06/08/2024",
     "exif": {
       "camera": "Canon EOS R10",
@@ -604,6 +644,7 @@
     "placeholder": "images/placeholders/thailand-1-placeholder.jpg",
     "alt": "Thailand",
     "title": "Market Maze",
+    "location": "Bangkok",
     "date": "27/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -619,6 +660,7 @@
     "placeholder": "images/placeholders/thailand-2-placeholder.jpg",
     "alt": "Thailand",
     "title": "Hidden Stream",
+    "location": "Erawan National Park",
     "date": "31/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -634,6 +676,7 @@
     "placeholder": "images/placeholders/thailand-3-placeholder.jpg",
     "alt": "Thailand",
     "title": "Cascade Trail",
+    "location": "Erawan National Park",
     "date": "31/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -649,6 +692,7 @@
     "placeholder": "images/placeholders/thailand-4-placeholder.jpg",
     "alt": "Thailand",
     "title": "Forest Flow",
+    "location": "Erawan National Park",
     "date": "31/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -664,6 +708,7 @@
     "placeholder": "images/placeholders/thailand-5-placeholder.jpg",
     "alt": "Thailand",
     "title": "Serenity Falls",
+    "location": "Erawan National Park",
     "date": "31/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -679,6 +724,7 @@
     "placeholder": "images/placeholders/thailand-6-placeholder.jpg",
     "alt": "Thailand",
     "title": "Stillness by the Lake",
+    "location": "Kanchanaburi",
     "date": "31/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -694,6 +740,7 @@
     "placeholder": "images/placeholders/thailand-7-placeholder.jpg",
     "alt": "Thailand",
     "title": "Bridge to History",
+    "location": "Ayutthaya",
     "date": "02/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -709,6 +756,7 @@
     "placeholder": "images/placeholders/thailand-8-placeholder.jpg",
     "alt": "Thailand",
     "title": "Heritage in Bloom",
+    "location": "Ayutthaya",
     "date": "02/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -724,6 +772,7 @@
     "placeholder": "images/placeholders/thailand-9-placeholder.jpg",
     "alt": "Thailand",
     "title": "Mystical Twilight Over Forgotten Temples",
+    "location": "Ayutthaya",
     "date": "02/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -739,6 +788,7 @@
     "placeholder": "images/placeholders/thailand-10-placeholder.jpg",
     "alt": "Thailand",
     "title": "Celebration Street",
+    "location": "Sukhothai",
     "date": "09/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -754,6 +804,7 @@
     "placeholder": "images/placeholders/thailand-11-placeholder.jpg",
     "alt": "Thailand",
     "title": "Mirror of Time",
+    "location": "Sukhothai",
     "date": "09/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -769,6 +820,7 @@
     "placeholder": "images/placeholders/thailand-12-placeholder.jpg",
     "alt": "Thailand",
     "title": "Among the Leaves",
+    "location": "Khao Sok National Park",
     "date": "13/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -784,6 +836,7 @@
     "placeholder": "images/placeholders/thailand-13-placeholder.jpg",
     "alt": "Thailand",
     "title": "Morning Tranquility",
+    "location": "Khao Sok National Park",
     "date": "15/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -799,6 +852,7 @@
     "placeholder": "images/placeholders/thailand-14-placeholder.jpg",
     "alt": "Thailand",
     "title": "Golden Escape",
+    "location": "Ao Nang",
     "date": "17/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -814,6 +868,7 @@
     "placeholder": "images/placeholders/thailand-15-placeholder.jpg",
     "alt": "Thailand",
     "title": "Evening Reflections",
+    "location": "Ao Nang",
     "date": "17/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -829,6 +884,7 @@
     "placeholder": "images/placeholders/thailand-16-placeholder.jpg",
     "alt": "Thailand",
     "title": "Horizon's Calmness",
+    "location": "Ao Nang",
     "date": "18/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -844,6 +900,7 @@
     "placeholder": "images/placeholders/thailand-17-placeholder.jpg",
     "alt": "Thailand",
     "title": "Coastal Refuge",
+    "location": "Ko Lipe",
     "date": "20/04/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -859,6 +916,7 @@
     "placeholder": "images/placeholders/vietnam-1-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Stillness Afloat",
+    "location": "Trang An",
     "date": "04/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -874,6 +932,7 @@
     "placeholder": "images/placeholders/vietnam-2-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Cocoa Mosaic",
+    "location": "Can Tho",
     "date": "21/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -889,6 +948,7 @@
     "placeholder": "images/placeholders/vietnam-3-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Early Morning Transit",
+    "location": "Ho Chi Minh City",
     "date": "20/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -904,6 +964,7 @@
     "placeholder": "images/placeholders/vietnam-4-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Market Hustle",
+    "location": "Hoi An",
     "date": "08/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -919,6 +980,7 @@
     "placeholder": "images/placeholders/vietnam-5-placeholder.jpg",
     "alt": "Vietnam",
     "title": "The Old Town Trade",
+    "location": "Hoi An",
     "date": "11/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -934,6 +996,7 @@
     "placeholder": "images/placeholders/vietnam-6-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Lantern Dance",
+    "location": "Hoi An",
     "date": "11/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
@@ -949,6 +1012,7 @@
     "placeholder": "images/placeholders/vietnam-7-placeholder.jpg",
     "alt": "Vietnam",
     "title": "Tangled Currents",
+    "location": "Nha Trang",
     "date": "14/03/2025",
     "exif": {
       "camera": "Canon EOS R10",
