@@ -150,6 +150,246 @@
     }
   },
   {
+    "src": "images/photos/japan-1.jpg",
+    "placeholder": "images/placeholders/japan-1-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "12/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "24mm (38.4mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/320s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/japan-2.jpg",
+    "placeholder": "images/placeholders/japan-2-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "13/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "70mm (112mm)",
+      "aperture": "f/8",
+      "shutter": "1/800s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/japan-3.jpg",
+    "placeholder": "images/placeholders/japan-3-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "13/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "40mm (64mm)",
+      "aperture": "f/8",
+      "shutter": "1/800s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/japan-4.jpg",
+    "placeholder": "images/placeholders/japan-4-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "13/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/640s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/japan-5.jpg",
+    "placeholder": "images/placeholders/japan-5-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "14/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "47mm (75.2mm)",
+      "aperture": "f/5.6",
+      "shutter": "1/40s",
+      "ISO": "4000"
+    }
+  },
+  {
+    "src": "images/photos/japan-6.jpg",
+    "placeholder": "images/placeholders/japan-6-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "14/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "35mm (56mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/60s",
+      "ISO": "3200"
+    }
+  },
+  {
+    "src": "images/photos/japan-7.jpg",
+    "placeholder": "images/placeholders/japan-7-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "15/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/25s",
+      "ISO": "2500"
+    }
+  },
+  {
+    "src": "images/photos/japan-8.jpg",
+    "placeholder": "images/placeholders/japan-8-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "15/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/50s",
+      "ISO": "2500"
+    }
+  },
+  {
+    "src": "images/photos/japan-9.jpg",
+    "placeholder": "images/placeholders/japan-9-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "15/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/60s",
+      "ISO": "800"
+    }
+  },
+  {
+    "src": "images/photos/japan-10.jpg",
+    "placeholder": "images/placeholders/japan-10-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "16/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "39mm (62.4mm)",
+      "aperture": "f/5",
+      "shutter": "1/250",
+      "ISO": "320"
+    }
+  },
+  {
+    "src": "images/photos/japan-11.jpg",
+    "placeholder": "images/placeholders/japan-11-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "16/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "150mm (240mm)",
+      "aperture": "f/6.3",
+      "shutter": "1/400s",
+      "ISO": "4000"
+    }
+  },
+  {
+    "src": "images/photos/japan-12.jpg",
+    "placeholder": "images/placeholders/japan-12-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "17/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "24mm (38.4mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/60s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/japan-13.jpg",
+    "placeholder": "images/placeholders/japan-13-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "17/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "50mm (80mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/100s",
+      "ISO": "400"
+    }
+  },
+  {
+    "src": "images/photos/japan-14.jpg",
+    "placeholder": "images/placeholders/japan-14-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "19/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "35mm (56mm)",
+      "aperture": "f/8",
+      "shutter": "1/80s",
+      "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/japan-15.jpg",
+    "placeholder": "images/placeholders/japan-15-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "19/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "41mm (65.6mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/100s",
+      "ISO": "400"
+    }
+  },
+  {
+    "src": "images/photos/japan-1.jpg",
+    "placeholder": "images/placeholders/japan-1-placeholder.jpg",
+    "alt": "Japan",
+    "title": "",
+    "date": "20/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/100s",
+      "ISO": "100"
+    }
+  },
+  {
     "src": "images/photos/kinderdijk-1.jpg",
     "placeholder": "images/placeholders/kinderdijk-1-placeholder.jpg",
     "alt": "Kinderdijk",
@@ -282,6 +522,36 @@
       "aperture": "f/8",
       "shutter": "1/400s",
       "ISO": "100"
+    }
+  },
+  {
+    "src": "images/photos/maleisië-2.jpg",
+    "placeholder": "images/placeholders/maleisië-2-placeholder.jpg",
+    "alt": "Malaysia",
+    "title": "",
+    "date": "05/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "1/60s",
+      "shutter": "f/16",
+      "ISO": "800"
+    }
+  },
+  {
+    "src": "images/photos/maleisië-3.jpg",
+    "placeholder": "images/placeholders/maleisië-3-placeholder.jpg",
+    "alt": "Malaysia",
+    "title": "",
+    "date": "09/05/2025",
+    "exif": {
+      "camera": "Canon EOS R10",
+      "lens": "Canon RF-S 18-150mm F3.5-6.3 IS STM",
+      "focallength": "18mm (28.8mm)",
+      "aperture": "f/7.1",
+      "shutter": "1/100s",
+      "ISO": "200"
     }
   },
   {
